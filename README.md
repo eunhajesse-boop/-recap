@@ -8,4 +8,5 @@ git log치면 snapshot 나옴
 3. 업로드
 
 더 변경하고 snapshot 찍어보기
-더더 변경 
+더더 변경
+계속 변경
